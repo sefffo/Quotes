@@ -1,0 +1,15 @@
+.btn1
+{
+        width: 250px;
+        height: 100px;
+        background-color: blue;
+
+}
+.btn1:hover
+{
+        background-color: green;
+}
+#Quote
+{
+        max-width: 1000px;
+}
